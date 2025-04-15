@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # International Airlines Group(IAG) Customer Recommendation Prediction System
 
 ## Project Overview
@@ -114,9 +113,3 @@ prediction = response.json()
 - Explainable AI components for business stakeholders
 - Automated retraining pipeline with data drift detection
 
-## Conclusion
-
-This project demonstrates advanced machine learning techniques applied to a real-world customer recommendation prediction problem. The implementation balances model performance with interpretability, making it valuable for both technical and business stakeholders.
-=======
-# International-Airlines-Group-Customer-Prediction-Analytics
->>>>>>> acfe21640bc29086ed18b7bd128ff0f4f7b53d20
